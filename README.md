@@ -8,10 +8,10 @@ Redis 를 통해 각 워커간의 통신을 처리함
 WebSocket 서버를 바인딩하고, 클라이언트와 관련된 통신을 처리함
 
 ### Room Manager
-클라이언트를 논리적으로 구분하여 효과적인 프로그래밍 가능
+클라이언트를 논리적으로 구분하여 효율적인 프로그래밍 가능
 
 ### Web Hook Manager
-웹 후킹을 통해 HTTP 요청을 WebSocket 패킷으로 변경함
+웹 후킹을 통해 HTTP 요청을 WebSocket 패킷으로 변환함
 
 #### Example
 ````js
